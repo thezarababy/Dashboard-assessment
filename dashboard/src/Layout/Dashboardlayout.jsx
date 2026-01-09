@@ -13,7 +13,7 @@ const DashboardLayout = ({ children }) => {
         <hr className="border-gray-200" />
 
         {/* Page content */}
-        <main className="p-6 overflow-y-auto bg-white">{children}</main>
+        <main className="p-6 bg-white overflow-hidden">{children}</main>
       </div>
     </div>
   );
