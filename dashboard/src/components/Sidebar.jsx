@@ -1,6 +1,6 @@
 export default function Sidebar() {
   return (
-    <div className="bg-[rgb(241,242,247)]">
+    <div className="w-64 h-screen bg-[rgb(241,242,247)]">
       <div className="pr-8 pl-15">
         <div className="flex justify-center">
           <img

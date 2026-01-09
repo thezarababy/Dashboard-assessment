@@ -6,7 +6,7 @@ import MostOrderedFood from "../components/MostOrderedFood";
 
 export default function Dashboard() {
   return (
-    <div className="bg-white h-screen">
+    <div className="bg-white h-[80vh] w-full space-y-6">
       <h1 className="text-2xl font-bold text-[#1F384C]">Dashboard</h1>
       <section>
         {/* Top section */}
