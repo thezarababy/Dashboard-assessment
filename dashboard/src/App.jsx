@@ -3,7 +3,7 @@ import Dashboard from "./pages/Dashboard";
 
 function App() {
   return (
-    <DashboardLayout>
+    <DashboardLayout className="max-w-7xl mx-auto">
       <Dashboard />
     </DashboardLayout>
   );
